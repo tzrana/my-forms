@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -35,4 +36,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+.custom-padding {
+  padding-left: 300px !important;
+  padding-right: 300px !important;
+  padding-top: 50px !important;
+  padding-bottom: 50px !important;
 }
